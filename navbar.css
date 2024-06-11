@@ -35,13 +35,13 @@
 	border-radius: 8px !important;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 900px) {
 	#uni-navigation-bar .nav-02__list_wrapper {
 		background: black;
 	}
 }
 
-@media (max-width: 768px) {
+@media (max-width: 900px) {
 	#uni-navigation-bar .nav-02__list--mobile {
 		height: 100%;
 		padding: 90px 15px 64px 15px;
@@ -85,7 +85,7 @@
 	padding-bottom: 0.1em;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 900px) {
 	#header-29-717141 .heading {
 		font-size: 2.5em;
 		line-height: 1.2;
@@ -110,7 +110,7 @@
 	margin-right: auto;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 900px) {
 	#header-29-717141 .content_box {
 		line-height: 1.4;
 	}
@@ -221,7 +221,7 @@
 	margin-top: 0.5em;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 900px) {
 	#clients-03-569381 .heading {
 		font-size: 2.5em;
 		line-height: 1.2;
@@ -246,7 +246,7 @@
 	margin-left: 0;
 	margin-right: auto;
 }
-@media (max-width: 768px) {
+@media (max-width: 900px) {
 	#clients-03-569381 .title-box__text {
 		font-size: 1.2em;
 		line-height: 1.4;
@@ -284,7 +284,7 @@
 	margin-top: 0.5em;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 900px) {
 	#features-09-476061 .heading {
 		font-size: 2.5em;
 		line-height: 1.2;
@@ -309,7 +309,7 @@
 	margin-left: 0;
 	margin-right: auto;
 }
-@media (max-width: 768px) {
+@media (max-width: 900px) {
 	#features-09-476061 .title-box__text {
 		font-size: 1.2em;
 		line-height: 1.4;
@@ -338,7 +338,7 @@
 	flex-direction: column;
 	text-align: start;
 }
-@media (max-width: 768px) {
+@media (max-width: 900px) {
 	#features-09-476061 .title-box--center {
 		margin-left: auto;
 		margin-right: auto;
@@ -432,7 +432,7 @@
 	margin-top: 0.5em;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 900px) {
 	#faq-01-716131 .heading {
 		font-size: 2.5em;
 		line-height: 1.2;
@@ -457,7 +457,7 @@
 	margin-left: 0;
 	margin-right: auto;
 }
-@media (max-width: 768px) {
+@media (max-width: 900px) {
 	#faq-01-716131 .title-box__text {
 		font-size: 1.2em;
 		line-height: 1.4;
@@ -482,7 +482,7 @@
 	flex-direction: column;
 	text-align: start;
 }
-@media (max-width: 768px) {
+@media (max-width: 900px) {
 	#faq-01-716131 .title-box--center {
 		margin-left: auto;
 		margin-right: auto;
