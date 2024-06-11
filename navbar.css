@@ -41,7 +41,7 @@
 	}
 }
 
-@media (max-width: 900px) {
+@media (max-width: 768px) {
 	#uni-navigation-bar .nav-02__list--mobile {
 		height: 100%;
 		padding: 90px 15px 64px 15px;
@@ -907,3 +907,76 @@ html {
     scroll-behavior: smooth;
 }
 
+body {
+    overflow-x: hidden;
+}
+
+.mentors-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+/* Individual mentor card */
+.mentor {
+    text-align: center;
+}
+
+/* Mentor images */
+.mentor img {
+    width: 175px; /* Adjust as needed */
+    height: 175px; /* Adjust as needed */
+    border-radius: 50%; /* Makes the images circular */
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+/* Mentor names */
+.mentor-name {
+    font-size: 18px; /* Adjust as needed */
+    color: #fff; /* Adjust as needed to match the theme */
+}
+
+
+
+.footer-04__col {
+    text-align: center; /* Centers the content within the column */
+    margin-bottom: 20px; /* Adds some space below the column */
+}
+
+.footer-04__title {
+    margin-bottom: 15px; /* Adds space between the title and the social buttons */
+    font-size: 24px; /* Adjust the font size as needed */
+    color: #fff; /* Adjust the color as needed */
+	text-align: left; /* Align the title to the left */
+    margin-left: 20%; /* Adjust to move the title towards the left */
+}
+
+.footer-04__social_box {
+    display: flex;
+    justify-content: center; /* Centers the social buttons container */
+}
+
+.social-buttons__list {
+    display: flex;
+    gap: 5px; /* Adds space between each social button */
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.social-buttons__item {
+    display: flex;
+    align-items: center;
+}
+
+.social-buttons__link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-buttons__icon {
+    width: 18px; /* Adjust the size as needed */
+    height: 24px; /* Adjust the size as needed */
+}
